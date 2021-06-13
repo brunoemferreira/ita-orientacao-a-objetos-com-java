@@ -9,7 +9,7 @@
 * Classes 
   * São abstrações;
 <div align="center">
-  <img src="./Assets/Classes.png"> 
+  <img src="./Assets/Classes2.png"> 
 </div>
 
 
