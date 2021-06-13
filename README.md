@@ -106,7 +106,15 @@ Resposta : Objeto
 <h4>Criando Classes com Java</h4>
 
 * Classes costumam ser organizadas em pacotes ( Packages ).
-*  
+* Para utilizar uma classe de fora do seu pacote, vc deve importar a classe ou o seu pacote relacionado.
+* As informações que uma classe precisa saber é armazenada nos atributos.
+* Todo atributo precisa ter um tipo.
+* Os métodos definem o comportamento da classe.
+* Estrutura de um método : 
+ 
+ <div align="center">
+    <img src="./Assets/Classes2.png"> 
+  </div>
 
 <h4>Hands-on: Classes e Objetos</h4>
 
