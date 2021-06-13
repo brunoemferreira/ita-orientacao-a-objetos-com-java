@@ -24,6 +24,14 @@
 
 <h4>Comportamento e Estados das Classes</h4>
 
+* Estado
+  * O Estado de uma classe é definido pelos atributos. 
+  * As Características de um objeto da classe são chamados de atributos. 
+
+* Comportamento
+  * O Comportamento de uma classe é chamado de **método**.
+
+
 <h4>📚 Testes para Praticar</h4>
 
 **1. Quais são as peças ou entidades que usamos em um software orientado a objetos? [Responsa nesse formato "xxxx e yyyy", sem aspas!]**
