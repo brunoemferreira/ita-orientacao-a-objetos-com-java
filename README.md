@@ -6,6 +6,15 @@
 
 <h4>Identificando Classes e Objetos</h4>
 
+* Classes 
+  * São abstrações;
+
+* Objetos
+  * É Concreto;
+  * É uma instância concreta de uma classe;
+  * Objetos são únicos;
+
+
 <h4>Comportamento e Estados das Classes</h4>
 
 <h4>Testes para Praticar</h4>
