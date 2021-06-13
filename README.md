@@ -105,6 +105,9 @@ Resposta : Objeto
 
 <h4>Criando Classes com Java</h4>
 
+* Classes costumam ser organizadas em pacotes ( Packages ).
+*  
+
 <h4>Hands-on: Classes e Objetos</h4>
 
 <h4>Construtores de Classes</h4>
