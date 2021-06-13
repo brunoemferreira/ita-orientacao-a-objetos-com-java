@@ -113,7 +113,7 @@ Resposta : Objeto
 * Estrutura de um método : 
  
  <div align="center">
-    <img src="./Assets/Classes2.png"> 
+    <img src="./Assets/metodos.png"> 
   </div>
 
 <h4>Hands-on: Classes e Objetos</h4>
