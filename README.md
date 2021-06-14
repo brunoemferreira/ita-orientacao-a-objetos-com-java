@@ -128,7 +128,7 @@ Resposta : Objeto
     <img src="./Assets/construtores.png"> 
   </div>
 
-<a href="https://github.com/brunoemferreira/ita-orientacao-a-objetos-com-java/tree/main/Fontes/Carros" >Hands-on: Construtores Diferentes para a mesma Classe</a>
+<a href="https://github.com/brunoemferreira/ita-orientacao-a-objetos-com-java/tree/main/Fontes/Comercio" >Hands-on: Construtores Diferentes para a mesma Classe</a>
 
 </hr>
 
