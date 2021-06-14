@@ -8,7 +8,7 @@
   * São abstrações;
   
 <div align="center">
-  <img src="./Assets/Classes2.png"> 
+  <img src="../Assets/Classes2.png"> 
 </div>
 
 * Objetos
@@ -17,7 +17,7 @@
   * Objetos são únicos;
 
 <div align="center">
-  <img src="./Assets/Objetos.png"> 
+  <img src="../Assets/Objetos.png"> 
 </div>
 
 <h4>✅ Comportamento e Estados das Classes</h4>
