@@ -47,7 +47,7 @@
 * Estrutura de um método : 
  
  <div align="center">
-    <img src="./Assets/metodos.png"> 
+    <img src="../Assets/metodos.png"> 
   </div>
 
 <a href="https://github.com/brunoemferreira/ita-orientacao-a-objetos-com-java/tree/main/Fontes/Carros" >Hands-on: Classes e Objetos</a>
@@ -59,7 +59,7 @@
 * É impossível ter vários construtores com tipos de parâmetros diferentes!
 
   <div align="center">
-    <img src="./Assets/construtores.png"> 
+    <img src="../Assets/construtores.png"> 
   </div>
 
 <a href="https://github.com/brunoemferreira/ita-orientacao-a-objetos-com-java/tree/main/Fontes/Comercio" >Hands-on: Construtores Diferentes para a mesma Classe</a>
