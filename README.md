@@ -6,8 +6,8 @@
 
 <h2>📅 Semana 1</h2>
 
-* 📝Introdução e Visão Geral do Curso
-* 📝Conhecendo as Classes
+* 📘 Introdução e Visão Geral do Curso
+* 📘 Conhecendo as Classes
   * ✅ Identificando Classes e Objetos
   * ✅ Comportamento e Estados das Classes
   * <a href="https://github.com/brunoemferreira/ita-orientacao-a-objetos-com-java/blob/main/Semana1/TestesParaPraticar.md" >📚 Teste para Praticar : Sobre os conceitos de classe e objeto</a>
