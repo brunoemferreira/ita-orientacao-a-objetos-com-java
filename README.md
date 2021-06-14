@@ -123,9 +123,7 @@ Resposta : Objeto
 * Os Construtores são "métodos especiais" usados para criar objetos da classe. Com eles você pode parametrisar o objeto criado e inicializar variáveis.
 *  
 
-<h4>Hands-on: Construtores Diferentes para a mesma Classe</h4>
-
-<a href="https://github.com/brunoemferreira/ita-orientacao-a-objetos-com-java/tree/main/Fontes/Carros" >Hands-on: Classes e Objetos</a>
+<a href="https://github.com/brunoemferreira/ita-orientacao-a-objetos-com-java/tree/main/Fontes/Carros" >Hands-on: Construtores Diferentes para a mesma Classe</a>
 
 </hr>
 
