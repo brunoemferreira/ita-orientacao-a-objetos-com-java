@@ -85,3 +85,7 @@
 </hr>
 
 <h2>📅 Semana 2</h2>
+
+<a href="https://www.coursera.org/learn/orientacao-a-objetos-com-java" >Link do Curso</a>
+
+
