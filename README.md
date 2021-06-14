@@ -32,6 +32,7 @@
   * O Comportamento de uma classe é chamado de **método**.
 
 <a href="https://github.com/brunoemferreira/ita-orientacao-a-objetos-com-java/blob/main/Semana1/TestesParaPraticar.md" >📚 Testes para Praticar</a>
+
 <a href="https://github.com/brunoemferreira/ita-orientacao-a-objetos-com-java/blob/main/Semana1/Testes.md" >📚 Testes</a>
 
 </hr>
