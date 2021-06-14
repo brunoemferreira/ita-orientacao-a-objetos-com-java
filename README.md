@@ -5,12 +5,13 @@
 <h1 align="center">Coursera - ITA - Orientação a Objetos com Java </h1>
 
 <h2>📅 Semana 1</h2>
-* <h3>📝Introdução e Visão Geral do Curso</h3>
-* <h3>📝Conhecendo as Classes</h3>
-     <h4>✅ Identificando Classes e Objetos</h4>
-     <h4>✅ Comportamento e Estados das Classes</h4>
-     <h4>📚 Teste para Praticar : Sobre os conceitos de classe e objeto</h4>
-     <h4>📚 Teste : O que você aprendeu sobre classes e objetos ?</h4>
+
+* 📝Introdução e Visão Geral do Curso
+* 📝Conhecendo as Classes
+  * ✅ Identificando Classes e Objetos
+  * ✅ Comportamento e Estados das Classes
+  * 📚 Teste para Praticar : Sobre os conceitos de classe e objeto
+  * 📚 Teste : O que você aprendeu sobre classes e objetos ?
    
 <h2>📅 Semana 2</h2>
    
