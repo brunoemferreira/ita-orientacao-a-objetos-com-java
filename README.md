@@ -4,7 +4,7 @@
 
 <h3>📝Conhecendo as Classes</h3>
 
-<h4>Identificando Classes e Objetos</h4>
+> <h4>Identificando Classes e Objetos</h4>
 
 * Classes 
   * São abstrações;
@@ -22,7 +22,7 @@
   <img src="./Assets/Objetos.png"> 
 </div>
 
-<h4>Comportamento e Estados das Classes</h4>
+> <h4>Comportamento e Estados das Classes</h4>
 
 * Estado
   * O Estado de uma classe é definido pelos atributos. 
@@ -32,7 +32,7 @@
   * O Comportamento de uma classe é chamado de **método**.
 
 
-<h4>📚 Testes para Praticar</h4>
+> <h4>📚 Testes para Praticar</h4>
 
 **1. Quais são as peças ou entidades que usamos em um software orientado a objetos? [Responsa nesse formato "xxxx e yyyy", sem aspas!]**
 Resposta : Classes e Objetos
@@ -103,7 +103,7 @@ Resposta : Objeto
 
 <h3>📝 Conhecendo as Classes com Java</h3>
 
-<h4>Criando Classes com Java</h4>
+> <h4>Criando Classes com Java</h4>
 
 * Classes costumam ser organizadas em pacotes ( Packages ).
 * Para utilizar uma classe de fora do seu pacote, vc deve importar a classe ou o seu pacote relacionado.
@@ -116,11 +116,19 @@ Resposta : Objeto
     <img src="./Assets/metodos.png"> 
   </div>
 
-<h4>Hands-on: Classes e Objetos</h4>
+<a href="https://github.com/brunoemferreira/ita-orientacao-a-objetos-com-java/tree/main/Fontes/Carros" >Hands-on: Classes e Objetos</a>
 
-<h4>Construtores de Classes</h4>
+> <h4>Construtores de Classes</h4>
 
-<h4>Hands-on: Construtores Diferentes para a mesma Classe</h4>
+* Os Construtores são "métodos especiais" usados para criar objetos da classe. Com eles você pode parametrisar o objeto criado e inicializar variáveis.
+* Quando nenhum construtor é definido, um vazio e sem parâmetros é criado.
+* É impossível ter vários construtores com tipos de parâmetros diferentes!
+
+  <div align="center">
+    <img src="./Assets/construtores.png"> 
+  </div>
+
+<a href="https://github.com/brunoemferreira/ita-orientacao-a-objetos-com-java/tree/main/Fontes/Carros" >Hands-on: Construtores Diferentes para a mesma Classe</a>
 
 </hr>
 
