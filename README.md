@@ -31,9 +31,9 @@
 * Comportamento
   * O Comportamento de uma classe é chamado de **método**.
 
-<a href="https://github.com/brunoemferreira/ita-orientacao-a-objetos-com-java/blob/main/Semana1/TestesParaPraticar.md" >📚 Testes para Praticar</a>
+<a href="https://github.com/brunoemferreira/ita-orientacao-a-objetos-com-java/blob/main/Semana1/TestesParaPraticar.md" >📚 Teste para Praticar : Sobre os conceitos de classe e objeto</a>
 
-<a href="https://github.com/brunoemferreira/ita-orientacao-a-objetos-com-java/blob/main/Semana1/Testes.md" >📚 Testes</a>
+<a href="https://github.com/brunoemferreira/ita-orientacao-a-objetos-com-java/blob/main/Semana1/Testes.md" >📚 Teste : O que você aprendeu sobre classes e objetos ?</a>
 
 </hr>
 
@@ -66,8 +66,18 @@
 
 <a href="https://github.com/brunoemferreira/ita-orientacao-a-objetos-com-java/tree/main/Fontes/Comercio" >Hands-on: Construtores Diferentes para a mesma Classe</a>
 
+
+<h3>📝 CRC: Classe, Responsabilidade e Colaboração</h3>
+
+<h4>✅ Identificando Responsabilidades</h4>
+
+<h4>✅ Identificando a Lógica das Responsabilidades</h4>
+
+<h4>✅ Identificando Colaborações</h4>
+
+<h4>✅ Cartão CRC</h4>
+
+<a href="https://github.com/brunoemferreira/ita-orientacao-a-objetos-com-java/blob/main/Semana1/Testes.md" >📚 Teste para praticar : Sobre CRC</a>
 </hr>
-
-
 
 <h2>📅 Semana 2</h2>
