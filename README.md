@@ -17,6 +17,15 @@
   * <a href="https://github.com/brunoemferreira/ita-orientacao-a-objetos-com-java/tree/main/Fontes/Carros" >💻 Hands-on: Classes e Objetos</a>
   * ✅ Construtores de Classes 
   * <a href="https://github.com/brunoemferreira/ita-orientacao-a-objetos-com-java/tree/main/Fontes/Comercio" >💻 Hands-on: Construtores Diferentes para a mesma Classe</a>
+* 📝 CRC: Classe, Responsabilidade e Colaboração</h3>
+  * ✅ Identificando Responsabilidades</h4>
+  * ✅ Identificando a Lógica das Responsabilidades</h4>
+  * ✅ Identificando Colaborações</h4>
+  * ✅ Cartão CRC</h4>
+  * <a href="https://github.com/brunoemferreira/ita-orientacao-a-objetos-com-java/blob/main/Semana1/Testes.md" >📚 Teste para praticar : Sobre CRC</a>
+
+</hr>
+
 
 
 <h2>📅 Semana 2</h2>
