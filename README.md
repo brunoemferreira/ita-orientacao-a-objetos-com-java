@@ -4,7 +4,7 @@
 
 <h1 align="center">Coursera - ITA - Orientação a Objetos com Java </h1>
 
-<h2>📅 Semana 1</h2>
+<a href="https://github.com/brunoemferreira/ita-orientacao-a-objetos-com-java/blob/main/Semana1/Semana1.md" ><h2>📅 Semana 1</h2></a>
 
 * 📘 Introdução e Visão Geral do Curso
 * 📘 Conhecendo as Classes
