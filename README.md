@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./Assets/logo.gif"> 
+</div>
+
 <h1 align="center">Coursera - ITA - Orientação a Objetos com Java </h1>
 
 <h2>📅 Semana 1</h2>
