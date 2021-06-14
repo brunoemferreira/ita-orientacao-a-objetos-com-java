@@ -12,7 +12,13 @@
   * ✅ Comportamento e Estados das Classes
   * 📚 Teste para Praticar : Sobre os conceitos de classe e objeto
   * 📚 Teste : O que você aprendeu sobre classes e objetos ?
-   
+* 📝 Conhecendo as Classes com Java
+  * ✅ Criando Classes com Java
+  * <a href="https://github.com/brunoemferreira/ita-orientacao-a-objetos-com-java/tree/main/Fontes/Carros" >💻 Hands-on: Classes e Objetos</a>
+  * ✅ Construtores de Classes 
+  * <a href="https://github.com/brunoemferreira/ita-orientacao-a-objetos-com-java/tree/main/Fontes/Comercio" >💻 Hands-on: Construtores Diferentes para a mesma Classe</a>
+
+
 <h2>📅 Semana 2</h2>
    
 <h2>📅 Semana 3</h2>
