@@ -12,12 +12,12 @@
   * ✅ Comportamento e Estados das Classes
   * <a href="https://github.com/brunoemferreira/ita-orientacao-a-objetos-com-java/blob/main/Semana1/TestesParaPraticar.md" >📚 Teste para Praticar : Sobre os conceitos de classe e objeto</a>
   * <a href="https://github.com/brunoemferreira/ita-orientacao-a-objetos-com-java/blob/main/Semana1/Testes.md" >📚 Teste : O que você aprendeu sobre classes e objetos ?</a>
-* 📝 Conhecendo as Classes com Java
+* 📘 Conhecendo as Classes com Java
   * ✅ Criando Classes com Java
   * <a href="https://github.com/brunoemferreira/ita-orientacao-a-objetos-com-java/tree/main/Fontes/Carros" >💻 Hands-on: Classes e Objetos</a>
   * ✅ Construtores de Classes 
   * <a href="https://github.com/brunoemferreira/ita-orientacao-a-objetos-com-java/tree/main/Fontes/Comercio" >💻 Hands-on: Construtores Diferentes para a mesma Classe</a>
-* 📝 CRC: Classe, Responsabilidade e Colaboração</h3>
+* 📘 CRC: Classe, Responsabilidade e Colaboração</h3>
   * ✅ Identificando Responsabilidades</h4>
   * ✅ Identificando a Lógica das Responsabilidades</h4>
   * ✅ Identificando Colaborações</h4>
