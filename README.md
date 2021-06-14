@@ -26,15 +26,24 @@
 
 </hr>
 
+<a href="https://github.com/brunoemferreira/ita-orientacao-a-objetos-com-java/blob/main/Semana2/Semana2.md" ><h2>📅 Semana 2</h2></a>
 
+* 📘 Lesson1: Aprofundando nas Classes com Java
+  * ✅ 
+  * 💻 
+  * ✅ 
+  * 💻 
+  * ✅ 
+  * 💻 
+  * 📚 
 
-<h2>📅 Semana 2</h2>
-   
-<h2>📅 Semana 3</h2>
+* 📘 Lesson 2: Modelagem CRC
 
-<h2>📅 Semana 4</h2>
+<a href="https://github.com/brunoemferreira/ita-orientacao-a-objetos-com-java/blob/main/Semana3/Semana3.md" ><h2>📅 Semana 3</h2></a>
 
-<h2>📅 Semana 5</h2>
+<a href="https://github.com/brunoemferreira/ita-orientacao-a-objetos-com-java/blob/main/Semana4/Semana4.md" ><h2>📅 Semana 4</h2></a>
+
+<a href="https://github.com/brunoemferreira/ita-orientacao-a-objetos-com-java/blob/main/Semana5/Semana5.md" ><h2>📅 Semana 5</h2></a>
 
 
 <a href="https://www.coursera.org/learn/orientacao-a-objetos-com-java" >Link do Curso</a>
