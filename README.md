@@ -121,7 +121,8 @@ Resposta : Objeto
 > <h4>Construtores de Classes</h4>
 
 * Os Construtores são "métodos especiais" usados para criar objetos da classe. Com eles você pode parametrisar o objeto criado e inicializar variáveis.
-* 
+* Quando nenhum construtor é definido, um vazio e sem parâmetros é criado.
+* É impossível ter vários construtores com tipos de parâmetros diferentes!
 
   <div align="center">
     <img src="./Assets/construtores.png"> 
