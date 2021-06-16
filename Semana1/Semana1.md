@@ -69,6 +69,16 @@
 
 <h4>✅ Identificando Responsabilidades</h4>
 
+* Caracterizar e Identificar responsabilidades de uma classe
+* Conceito de antropomorfismo : Antropomorfismo é essa capacidade de aplicar conceitos e características do ser humano objetos inanimados, animais irracionais.
+* Orientação a objetos antropomorfismo significa aplicar objetos e classes, conceitos e comportamentos de ser humano.
+* O que uma classe **sabe** ou **faz** é chamado de responsabilidade.
+* Perguntando quais são as responsabilidades do objeto eu encontro os atributos e os métodos.
+* Quando pergunto o que um objeto sabe eu encontro os atributos.
+* Quando pergunto o que um objeto faz eu encontro seus métodos ou comportamento.
+* Tipo **SABE** : Atributos 
+* Tipo **FAZ** : Comportamento 
+
 <h4>✅ Identificando a Lógica das Responsabilidades</h4>
 
 <h4>✅ Identificando Colaborações</h4>
