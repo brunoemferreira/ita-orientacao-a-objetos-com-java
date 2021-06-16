@@ -1,4 +1,4 @@
-<h2>📅 Semana 1</h2>
+<h2 align"center">📅 Semana 1</h2>
 
 <h3>📝Conhecendo as Classes</h3>
 
