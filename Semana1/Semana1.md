@@ -83,9 +83,23 @@
 
 <h3>✅ Identificando a Lógica das Responsabilidades</h3>
 
+* aqui só foram ilustraçoes sobre a lógica das reponsabilidades; 
+
 <h3>✅ Identificando Colaborações</h3>
 
+* Para Realizar a lógica de uma dada responsabilidade : 
+  * Um objeto da classe pode realizar a tarefa sozinha;
+  * Solicitar a colaboração de objetos de classe colaboradora;
+* Classe Colaboradora.
+* Colaboração : corresponde a uma responsabilidade de classe colaboradora;
+* Classe Colaboradora = Classe Servidora;
+* Classe que depende de classe colaboradora = classe cliente;  
+* Classe Cliente cliente depende da classe Servidora e isso se chama acoplamento;
+
 <h3>✅ Cartão CRC</h3>
+
+
+
 
 <a href="https://github.com/brunoemferreira/ita-orientacao-a-objetos-com-java/blob/main/Semana1/Testes.md" >📚 Teste para praticar : Sobre CRC</a>
 </hr>
