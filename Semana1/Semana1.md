@@ -100,10 +100,10 @@
 
 * Cartão CRC = Classe, Responsabilidade e Colaboração.
 
-| Nome da Classe |
-|----------------|
+| Nome da Classe                   |
+|-------------------|--------------|
 | Responsabilidades | Colaborações |
-|-------|--------|
+|-------------------|--------------|
 
 
 
